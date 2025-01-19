@@ -1,0 +1,14 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+
+Thumbs.db
+ehthumbs.db
+
+.vscode/
+
+/packages/
+
+*.log
